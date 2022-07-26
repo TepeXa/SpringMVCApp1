@@ -9,10 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce82f95c-28ff-4600-bef9-8592ae7843b4" name="Changes" comment="Alishev javacod + conntroller">
+    <list default="true" id="ce82f95c-28ff-4600-bef9-8592ae7843b4" name="Changes" comment="Alishev javacod + conntroller+model lesson 20">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/springcourse/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/springcourse/controllers/FirstController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +55,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Terentyev-DA/IdeaProjects/SpringMVCApp1/src/main/webapp/WEB-INF/views/first",
     "spring.configuration.checksum": "52232cf60588c7be094e0e7ae9bc9aea"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Terentyev-DA\IdeaProjects\SpringMVCApp1\src\main\webapp\WEB-INF\views\first" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.64" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.64" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
@@ -207,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656679216059</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Alishev javacod + conntroller+model lesson 20">
+      <created>1658831016550</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658831016550</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +243,7 @@
     <MESSAGE value="Alishev xml" />
     <MESSAGE value="Alishev  xml" />
     <MESSAGE value="Alishev javacod + conntroller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alishev javacod + conntroller" />
+    <MESSAGE value="Alishev javacod + conntroller+model lesson 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alishev javacod + conntroller+model lesson 20" />
   </component>
 </project>
